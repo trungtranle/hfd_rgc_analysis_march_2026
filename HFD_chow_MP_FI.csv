@@ -1,0 +1,1201 @@
+file_name,dataset_number,dataset_name,source_id,cell_unid,retina_id,animal_id,side,fr_per_current_mean,fr_per_current_sem,inj_current,n_epochs_per_current,stim_time_s,cell_name,cell_type,cc_quality,extra_mp,orientation,feeding_condition,cell_number,x,y,quadrant
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0,0,-300,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0,0,-224,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0,0,-167,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0,0,-125,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0,0,-93,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0,0,-70,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0,0,-52,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0,0,-39,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0.666666666666667,0.816496580927726,-29,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0,0,-22,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0,0,-16,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0,0,-12,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0,0,-9,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0,0,-7,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0,0,-5,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,1.33333333333333,0.816496580927726,5,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,1.33333333333333,0.816496580927726,7,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,1.33333333333333,0.816496580927726,9,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,2,0,12,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,0,0,16,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,2,1.41421356237309,22,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,4,1.41421356237309,29,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,6,0,39,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,6.66666666666667,1.63299316185545,52,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,8.66666666666667,2.16024689946929,70,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,13.3333333333333,0.816496580927726,93,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,17.3333333333333,2.16024689946929,125,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,24,1.41421356237309,167,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,22,2.44948974278318,224,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,1,MultiPulse_Whole_cell_Voltage_clamp,6,10975,1,4273,Left,22.6666666666667,0.816496580927726,300,3,0.5,012926Ac12,OFF transient alpha,high,F,ventral down,chow,12,-1764,-664,VT
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,0,0,-300,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,0,0,-224,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,0,0,-167,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,0,0,-125,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,0,0,-93,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,0,0,-70,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,0,0,-52,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,1.33333333333333,1.63299316185545,-39,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,2.66666666666667,2.16024689946929,-29,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,2,0,-22,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,2.66666666666667,0.816496580927726,-16,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,8,1.41421356237309,-12,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,7.33333333333333,5.71547606649408,-9,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,10,1.41421356237309,-7,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,14,2.44948974278318,-5,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,16,2.44948974278318,5,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,16,2.82842712474619,7,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,17.3333333333333,0.816496580927726,9,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,18.6666666666667,2.16024689946929,12,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,21.3333333333333,2.94392028877595,16,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,22,2.44948974278318,22,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,21.3333333333333,9.62635271879577,29,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,30,5.65685424949238,39,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,27.3333333333333,10.7082522694727,52,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,23.3333333333333,14.1656862405839,70,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,6.66666666666667,4.32049379893857,93,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,13.3333333333333,4.32049379893857,125,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,10,1.41421356237309,167,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,7.33333333333333,2.16024689946929,224,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,2,MultiPulse_Whole_cell_Voltage_clamp,15,10984,1,4273,Left,6.66666666666667,0.816496580927726,300,3,0.5,012926Ac6,OFF sustained alpha,high,F,ventral down,chow,6,862,11,DN
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,0,0,-300,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,0,0,-224,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,0,0,-167,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,0,0,-125,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,0,0,-93,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,1,1.4142135623731,-70,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,0,0,-52,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,0,0,-39,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,0,0,-29,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,0,0,-22,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,0,0,-16,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,4,0,-12,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,4,2.82842712474619,-9,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,5,1.4142135623731,-7,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,12,2.82842712474619,-5,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,20,2.82842712474619,5,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,24,0,7,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,23,1.4142135623731,9,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,27,1.4142135623731,12,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,33,4.24264068711928,16,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,41,4.24264068711928,22,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,48,2.82842712474619,29,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,55,1.4142135623731,39,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,56,14.142135623731,52,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,59,32.5269119345812,70,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,30,11.3137084989848,93,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,21,4.24264068711928,125,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,19,1.4142135623731,167,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,18,2.82842712474619,224,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926A,3,MultiPulse_Whole_cell_Voltage_clamp_incomplete,4,10977,1,4273,Left,19,4.24264068711928,300,2,0.5,012926Ac14,OFF vertical OS - asymmetric,high,F,ventral down,chow,14,-1742,-619,VT
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,0,0,-300,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,0,0,-224,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,0,0,-167,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,2.66666666666667,3.2659863237109,-125,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,2,2.44948974278318,-93,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,4.66666666666667,2.16024689946929,-70,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,9.33333333333333,2.94392028877595,-52,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,9.33333333333333,2.94392028877595,-39,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,14.6666666666667,10.9848380355227,-29,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,16,6.16441400296898,-22,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,17.3333333333333,2.16024689946929,-16,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,15.3333333333333,3.55902608401044,-12,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,22.6666666666667,10.4243305140746,-9,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,15.3333333333333,0.816496580927726,-7,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,22.6666666666667,2.16024689946929,-5,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,15.3333333333333,4.32049379893857,5,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,20.6666666666667,10.9848380355227,7,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,20.6666666666667,4.54606056566195,9,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,17.3333333333333,2.16024689946929,12,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,24.6666666666667,5.71547606649408,16,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,26,4.24264068711928,22,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,22,4.24264068711928,29,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,25.3333333333333,3.2659863237109,39,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,33.3333333333333,5.71547606649408,52,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,30.6666666666667,3.55902608401044,70,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,42.6666666666667,6.68331255192114,93,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,46,1.41421356237309,125,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,54.6666666666667,0.816496580927726,167,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,55.3333333333333,21.7408984788271,224,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,4,MultiPulse_Whole_cell_CC,3,11003,1,4273,Right,56,23.5372045918796,300,3,0.5,012926Bc2,ON vertical OS large RF,high,F,ventral down,chow,2,-571,346,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,-300,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,-224,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,-167,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,-125,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,-93,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,-70,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,-52,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,-39,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,-29,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,-22,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,-16,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,-12,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,-9,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,-7,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,-5,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,5,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,7,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,0,0,9,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,2.66666666666667,3.2659863237109,12,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,2,2.44948974278318,16,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,2.66666666666667,2.16024689946929,22,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,13.3333333333333,2.16024689946929,29,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,23.3333333333333,5.71547606649408,39,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,36.6666666666667,4.54606056566195,52,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,46,5.09901951359278,70,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,63.3333333333333,4.32049379893857,93,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,82,2.44948974278318,125,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,102,2.44948974278318,167,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,126.666666666667,2.94392028877595,224,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,5,MultiPulse_Whole_cell_CC,5,11006,1,4273,Right,146,1.41421356237309,300,3,0.5,012926Bc5,ON OS large RF - orientation unknown,high,F,ventral down,chow,5,-502,380,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,0,0,-300,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,0,0,-224,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,0,0,-167,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,0,0,-125,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,0.666666666666667,0.816496580927726,-93,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,1.33333333333333,0.816496580927726,-70,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,2,1.41421356237309,-52,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,3.33333333333333,2.16024689946929,-39,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,3.33333333333333,0.816496580927726,-29,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,4.66666666666667,0.816496580927726,-22,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,4,1.41421356237309,-16,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,5.33333333333333,2.16024689946929,-12,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,6,1.41421356237309,-9,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,6,0,-7,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,7.33333333333333,2.16024689946929,-5,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,8.66666666666667,1.63299316185545,5,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,6.66666666666667,0.816496580927726,7,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,8,1.41421356237309,9,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,10,1.41421356237309,12,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,10,1.41421356237309,16,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,12,0,22,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,12,1.41421356237309,29,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,13.3333333333333,2.16024689946929,39,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,17.3333333333333,0.816496580927726,52,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,21.3333333333333,1.63299316185545,70,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,24.6666666666667,1.63299316185545,93,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,30.6666666666667,0.816496580927726,125,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,40.6666666666667,2.16024689946929,167,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,48.6666666666667,5.35412613473634,224,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,6,MultiPulse_Whole_cell_CC,6,11002,1,4273,Right,52,13.9283882771841,300,3,0.5,012926Bc1,OFF transient alpha,high,F,ventral down,chow,1,-565,354,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,-300,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,-224,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,-167,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,-125,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,-93,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,-70,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,-52,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,-39,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,-29,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,-22,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,-16,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,-12,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,-9,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,-7,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,-5,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0,0,5,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0.666666666666667,0.816496580927726,7,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,0.666666666666667,0.816496580927726,9,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,1.33333333333333,0.816496580927726,12,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,4,1.41421356237309,16,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,6.66666666666667,1.63299316185545,22,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,10.6666666666667,0.816496580927726,29,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,16.6666666666667,0.816496580927726,39,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,23.3333333333333,1.63299316185545,52,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,32,1.41421356237309,70,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,36,1.41421356237309,93,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,24.6666666666667,7.11805216802087,125,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,12.6666666666667,3.55902608401044,167,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,7.33333333333333,0.816496580927726,224,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,7,MultiPulse_Whole_cell_CC,8,11007,1,4273,Right,8,0,300,3,0.5,012926Bc6,ON DS sustained - temporal,high,F,ventral down,chow,6,-534,386,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,-500,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,-360,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,-259,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,-186,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,-134,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,-97,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,-69,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,-50,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,-36,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,-26,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,-19,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,-13,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,-10,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,-7,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,-5,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,5,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,7,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,10,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,13,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,19,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,26,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,36,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,50,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,69,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,97,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,0,0,134,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,1.33333333333333,0.816496580927726,186,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,10.6666666666667,2.16024689946929,259,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,36.6666666666667,2.94392028877595,360,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+012926B,8,MultiPulse_Whole_cell_CC_-500_500,2,11008,1,4273,Right,72,2.82842712474619,500,3,0.5,012926Bc7,ON alpha,high,F,ventral down,chow,7,-370,405,DN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,0,0,-300,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,0,0,-224,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,0,0,-167,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,0,0,-125,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,0,0,-93,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,0,0,-70,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,0,0,-52,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,0,0,-39,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,0,0,-29,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,0,0,-22,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,0,0,-16,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,0,0,-12,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,0,0,-9,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,0,0,-7,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,0,0,-5,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,10,1.41421356237309,5,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,12,1.41421356237309,7,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,11.3333333333333,0.816496580927726,9,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,15.3333333333333,0.816496580927726,12,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,18.6666666666667,1.63299316185545,16,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,24,0,22,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,28,1.41421356237309,29,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,34.6666666666667,0.816496580927726,39,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,42,1.41421356237309,52,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,47.3333333333333,0.816496580927726,70,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,56.6666666666667,1.63299316185545,93,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,60.6666666666667,2.16024689946929,125,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,41.3333333333333,2.16024689946929,167,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,38.6666666666667,3.2659863237109,224,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020526A,9,MultiPulse_Whole_cell_Voltage_clamp,8,11046,1,4274,Left,33.3333333333333,4.54606056566195,300,3,0.5,020526Ac8,ON transient EW6t,high,F,ventral down,chow,8,2138,-1549,VN
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,0,0,-500,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,0,0,-360,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,0,0,-259,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,0.333333333333333,0.365148371670111,-186,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,0,0,-134,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,0,0,-97,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,0,0,-69,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,2,2.19089023002066,-50,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,1.66666666666667,1.82574185835055,-36,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,4.33333333333333,3.93615717843347,-26,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,6.66666666666667,6.03103086821261,-19,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,4.33333333333333,4.32357876455759,-13,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,6.33333333333333,5.66862711186168,-10,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,8.66666666666667,7.08048962525427,-7,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,7,6.08604962188118,-5,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,10.3333333333333,7.02946180965039,5,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,7.33333333333333,5.08068236886871,7,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,11.6666666666667,7.09741737065908,10,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,8.66666666666667,3.47179108434441,13,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,12,7.63151361133557,19,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,15,7.43505211817644,26,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,17,6.11228271597445,36,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,24.6666666666667,7.32484357057086,50,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,30,2.93938769133981,69,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,37.6666666666667,2.49265587944532,97,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,54.6666666666667,5.29653975094432,134,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,75.3333333333333,5.73178273605458,186,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,98,1.95959179422654,259,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,130.333333333333,2.22111083319436,360,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,10,MultiPulse_Whole_cell_Voltage_clamp,4,11060,1,4276,Left,165,4.65617869072913,500,6,0.5,020326Ac11,ON alpha,high,F,ventral down,HFD,11,-857,379,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0,0,-500,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0,0,-360,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0,0,-259,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0,0,-186,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0,0,-134,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0,0,-97,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0,0,-69,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0,0,-50,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,2,2.44948974278318,-36,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0.666666666666667,0.816496580927726,-26,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0,0,-19,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0,0,-13,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0.666666666666667,0.816496580927726,-10,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0,0,-7,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,2,2.44948974278318,-5,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0.666666666666667,0.816496580927726,5,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0.666666666666667,0.816496580927726,7,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,0,0,10,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,1.33333333333333,1.63299316185545,13,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,3.33333333333333,2.16024689946929,19,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,2.66666666666667,3.2659863237109,26,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,6.66666666666667,5.71547606649408,36,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,6,6.16441400296898,50,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,6.66666666666667,3.2659863237109,69,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,14.6666666666667,0.816496580927726,97,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,26,1.41421356237309,134,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,38.6666666666667,2.16024689946929,186,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,62,2.82842712474619,259,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,82.6666666666667,4.32049379893857,360,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,11,MultiPulse_Whole_cell_Voltage_clamp,5,11066,1,4276,Left,122,4.24264068711928,500,3,0.5,020326Ac17,ON alpha,high,F,ventral down,HFD,17,-465,283,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,-300,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,-224,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,-167,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,-125,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,-93,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,-70,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,-52,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,-39,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,-29,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,-22,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,-16,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,-12,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,-9,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,-7,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,-5,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,5,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,7,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,9,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,12,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,16,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,22,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,29,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,39,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,52,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,70,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,93,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,0,0,125,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,5.33333333333333,2.94392028877595,167,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,18.6666666666667,0.816496580927726,224,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,12,MultiPulse_Whole_cell_Voltage_clamp,15,11068,1,4276,Left,42,0,300,3,0.5,020326Ac19,ON transient medium RF,high,F,ventral down,HFD,19,-514,321,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,-300,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,-224,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,-167,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,-125,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,-93,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,-70,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,-52,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,-39,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,-29,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,-22,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,-16,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,-12,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,-9,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,-7,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,-5,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,5,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,7,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,9,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,12,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,16,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,22,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,29,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,0,0,39,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,1.33333333333333,1.63299316185545,52,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,6.66666666666667,4.32049379893857,70,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,14,2.44948974278318,93,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,28,3.74165738677394,125,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,38,4.24264068711928,167,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,42,10.1980390271856,224,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,13,MultiPulse_Whole_cell_Voltage_clamp,16,11077,1,4276,Left,42,5.65685424949238,300,3,0.5,020326Ac9,ON transient medium RF,high,F,ventral down,HFD,9,-932,592,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,0,0,-500,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,0,0,-360,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,0,0,-259,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,0,0,-186,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,0,0,-134,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,0,0,-97,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,0,0,-69,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,0.666666666666667,0.816496580927726,-50,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,1.33333333333333,0.816496580927726,-36,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,0.666666666666667,0.816496580927726,-26,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,2.66666666666667,0.816496580927726,-19,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,2.66666666666667,0.816496580927726,-13,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,2,1.41421356237309,-10,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,2,1.41421356237309,-7,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,4.66666666666667,0.816496580927726,-5,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,7.33333333333333,2.16024689946929,5,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,4.66666666666667,2.16024689946929,7,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,7.33333333333333,0.816496580927726,10,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,7.33333333333333,0.816496580927726,13,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,8,1.41421356237309,19,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,10,1.41421356237309,26,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,11.3333333333333,2.16024689946929,36,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,14.6666666666667,2.16024689946929,50,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,16.6666666666667,2.16024689946929,69,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,23.3333333333333,0.816496580927726,97,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,29.3333333333333,2.94392028877595,134,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,41.3333333333333,4.08248290463863,186,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,56.6666666666667,3.55902608401044,259,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,64.6666666666667,9.41629792788369,360,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,14,MultiPulse_Whole_cell_Voltage_clamp,18,11065,1,4276,Left,50.6666666666667,4.32049379893857,500,3,0.5,020326Ac16,OFF transient alpha,high,F,ventral down,HFD,16,-523,288,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,0,0,-300,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,0,0,-224,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,0,0,-167,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,0,0,-125,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,0,0,-93,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,0,0,-70,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,0,0,-52,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,0,0,-39,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,0,0,-29,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,0,0,-22,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,0,0,-16,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,0,0,-12,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,0,0,-9,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,0,0,-7,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,0,0,-5,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,12.6666666666667,2.16024689946929,5,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,13.3333333333333,3.2659863237109,7,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,21.3333333333333,1.63299316185545,9,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,24,1.41421356237309,12,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,29.3333333333333,0.816496580927726,16,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,35.3333333333333,0.816496580927726,22,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,42,1.41421356237309,29,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,50,0,39,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,58.6666666666667,0.816496580927726,52,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,70,1.41421356237309,70,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,81.3333333333333,2.16024689946929,93,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,100,1.41421356237309,125,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,116.666666666667,0.816496580927726,167,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,109.333333333333,11.3431330181157,224,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326A,15,MultiPulse_Whole_cell_Voltage_clamp,19,11076,1,4276,Left,97.3333333333333,7.78888096369861,300,3,0.5,020326Ac8,HD1,high,F,ventral down,HFD,8,-625,564,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,0,0,-300,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,0,0,-224,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,0,0,-167,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,0,0,-125,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,0,0,-93,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,0,0,-70,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,0,0,-52,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,0,0,-39,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,0,0,-29,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,0,0,-22,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,0,0,-16,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,0,0,-12,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,0,0,-9,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,0,0,-7,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,0.666666666666667,0.816496580927726,-5,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,8,1.41421356237309,5,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,6.66666666666667,2.94392028877595,7,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,12.6666666666667,0.816496580927726,9,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,13.3333333333333,0.816496580927726,12,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,18,1.41421356237309,16,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,24.6666666666667,1.63299316185545,22,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,31.3333333333333,2.16024689946929,29,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,40,1.41421356237309,39,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,50,1.41421356237309,52,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,62,4.89897948556636,70,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,70.6666666666667,2.94392028877595,93,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,97.3333333333333,1.63299316185545,125,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,118,2.82842712474619,167,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,138,3.74165738677394,224,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,16,MultiPulse_Whole_cell_CC,4,11026,1,4276,Right,123.333333333333,10.6144555520604,300,3,0.5,020326Bc12,unclassified,high,F,ventral down,HFD,12,836,140,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,0,0,-300,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,0,0,-224,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,0,0,-167,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,0,0,-125,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,6.66666666666667,1.63299316185545,-93,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,11.3333333333333,2.16024689946929,-70,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,16,2.44948974278318,-52,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,20.6666666666667,5.71547606649408,-39,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,24,1.41421356237309,-29,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,27.3333333333333,4.08248290463863,-22,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,28.6666666666667,4.32049379893857,-16,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,30.6666666666667,2.94392028877595,-12,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,30.6666666666667,2.16024689946929,-9,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,33.3333333333333,3.55902608401044,-7,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,33.3333333333333,4.08248290463863,-5,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,36.6666666666667,3.2659863237109,5,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,38.6666666666667,7.11805216802088,7,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,40,2.82842712474619,9,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,40.6666666666667,3.2659863237109,12,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,40,3.74165738677394,16,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,46.6666666666667,4.54606056566195,22,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,44,2.44948974278318,29,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,51.3333333333333,2.16024689946929,39,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,56.6666666666667,4.32049379893857,52,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,64.6666666666667,4.54606056566195,70,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,75.3333333333333,5.71547606649408,93,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,82.6666666666667,0.816496580927726,125,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,91.3333333333333,3.55902608401044,167,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,83.3333333333333,4.32049379893857,224,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,17,MultiPulse_Whole_cell_CC,9,11019,1,4276,Right,31.3333333333333,7.78888096369861,300,3,0.5,020326Bc5,OFF sustained alpha,high,F,ventral down,HFD,5,613,54,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,-300,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,-224,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,-167,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,-125,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,-93,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,-70,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,-52,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,-39,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,-29,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,-22,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,-16,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,-12,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,-9,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,-7,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,-5,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,5,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,7,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,9,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,12,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,16,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,22,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,29,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0,0,39,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,0.666666666666667,0.816496580927726,52,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,2.66666666666667,0.816496580927726,70,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,18,6.16441400296898,93,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,38.6666666666667,2.16024689946929,125,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,67.3333333333333,2.94392028877595,167,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,100,2.44948974278318,224,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,18,MultiPulse_Whole_cell_CC,10,11030,1,4276,Right,140.666666666667,3.55902608401044,300,3,0.5,020326Bc16,ON-OFF DS - dorsal,high,F,ventral down,HFD,16,674,469,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,-300,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,-224,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,-167,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,-125,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,-93,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,-70,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,-52,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,-39,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,-29,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,-22,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,-16,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,-12,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,-9,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,-7,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,-5,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,5,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,7,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0,0,9,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0.666666666666667,0.816496580927726,12,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,0.666666666666667,0.816496580927726,16,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,5.33333333333333,4.32049379893857,22,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,12.6666666666667,3.2659863237109,29,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,22.6666666666667,1.63299316185545,39,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,28,3.74165738677394,52,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,34,1.41421356237309,70,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,57.3333333333333,8.04155872120988,93,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,68.6666666666667,5.35412613473634,125,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,98.6666666666667,5.71547606649408,167,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,128,6.16441400296898,224,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,19,MultiPulse_Whole_cell_CC,11,11016,1,4276,Right,156.666666666667,3.2659863237109,300,3,0.5,020326Bc2,ON-OFF DS - temporal,high,F,ventral down,HFD,2,503,288,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,-300,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,-224,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,-167,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,-125,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,-93,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,-70,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,-52,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,-39,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,-29,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,-22,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,-16,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,-12,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,-9,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,-7,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,-5,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,5,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,7,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,1.33333333333333,1.63299316185545,9,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,0,0,12,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,2.66666666666667,2.16024689946929,16,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,2,1.41421356237309,22,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,6,2.44948974278318,29,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,11.3333333333333,1.63299316185545,39,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,25.3333333333333,1.63299316185545,52,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,34.6666666666667,1.63299316185545,70,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,48.6666666666667,0.816496580927726,93,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,60.6666666666667,0.816496580927726,125,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,60,8.48528137423857,167,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,10,0,224,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,20,MultiPulse_Whole_cell_CC,12,11024,1,4276,Right,9.33333333333333,0.816496580927726,300,3,0.5,020326Bc10,ON vertical OS large RF,high,F,ventral down,HFD,10,818,120,DT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,-300,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,-224,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,-167,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,-125,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,-93,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,-70,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,-52,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,-39,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,-29,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,-22,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,-16,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,-12,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,-9,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,-7,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0.666666666666667,0.816496580927726,-5,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,5,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0.666666666666667,0.816496580927726,7,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0,0,9,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,0.666666666666667,0.816496580927726,12,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,1.33333333333333,0.816496580927726,16,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,1.33333333333333,1.63299316185545,22,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,4.66666666666667,2.16024689946929,29,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,4.66666666666667,2.16024689946929,39,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,4.66666666666667,2.16024689946929,52,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,6,2.44948974278318,70,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,7.33333333333333,1.63299316185545,93,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,8.66666666666667,2.16024689946929,125,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,8,0,167,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,8.66666666666667,0.816496580927726,224,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,21,MultiPulse_Whole_cell_CC,13,11020,1,4276,Right,9.33333333333333,0.816496580927726,300,3,0.5,020326Bc6,OFF transient alpha,high,F,ventral down,HFD,6,579,-22,VT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,-300,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,-224,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,-167,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,-125,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,-93,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,-70,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,-52,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,-39,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,-29,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,-22,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,-16,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,-12,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,-9,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,-7,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,-5,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,5,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0,0,7,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,0.666666666666667,0.816496580927726,9,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,1.33333333333333,0.816496580927726,12,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,2,1.41421356237309,16,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,5.33333333333333,0.816496580927726,22,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,6,0,29,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,11.3333333333333,1.63299316185545,39,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,14.6666666666667,0.816496580927726,52,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,22,1.41421356237309,70,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,28.6666666666667,0.816496580927726,93,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,45.3333333333333,1.63299316185545,125,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,60,1.41421356237309,167,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,80,1.41421356237309,224,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,22,MultiPulse_Whole_cell_CC,14,11022,1,4276,Right,110.666666666667,0.816496580927726,300,3,0.5,020326Bc8,OFF transient medium RF,high,F,ventral down,HFD,8,834,110,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,-500,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,-360,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,-259,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,-186,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,-134,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,-97,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,-69,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,-50,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,-36,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,-26,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,-19,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,-13,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,-10,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,-7,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,-5,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,5,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,7,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,10,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,13,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0.666666666666667,0.816496580927726,19,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,26,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,0,0,36,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,2.66666666666667,3.2659863237109,50,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,6,4.89897948556636,69,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,10.6666666666667,6.97614984548545,97,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,18.6666666666667,2.16024689946929,134,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,44,6.16441400296898,186,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,66,8.60232526704262,259,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,92.6666666666667,7.25718035235908,360,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,23,MultiPulse_Whole_cell_CC_-500_500,3,11018,1,4276,Right,128.666666666667,4.96655480858378,500,3,0.5,020326Bc4,ON alpha,high,F,ventral down,HFD,4,601,228,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,0,0,-500,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,0,0,-360,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,0,0,-259,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,0,0,-186,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,0,0,-134,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,0,0,-97,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,0,0,-69,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,0,0,-50,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,0.666666666666667,0.816496580927726,-36,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,2,1.41421356237309,-26,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,2.66666666666667,0.816496580927726,-19,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,3.33333333333333,0.816496580927726,-13,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,4.66666666666667,1.63299316185545,-10,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,2.66666666666667,0.816496580927726,-7,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,4,1.41421356237309,-5,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,7.33333333333333,3.2659863237109,5,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,6.66666666666667,2.16024689946929,7,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,9.33333333333333,1.63299316185545,10,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,10.6666666666667,0.816496580927726,13,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,10,1.41421356237309,19,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,12.6666666666667,0.816496580927726,26,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,15.3333333333333,0.816496580927726,36,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,19.3333333333333,1.63299316185545,50,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,22.6666666666667,1.63299316185545,69,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,25.3333333333333,0.816496580927726,97,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,36.6666666666667,1.63299316185545,134,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,46,1.41421356237309,186,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,43.3333333333333,5.8878405775519,259,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,30.6666666666667,2.16024689946929,360,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,24,MultiPulse_Whole_cell_CC_-500_500,5,11029,1,4276,Right,27.3333333333333,0.816496580927726,500,3,0.5,020326Bc15,OFF transient alpha,high,F,ventral down,HFD,15,722,449,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,0,0,-500,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,0,0,-360,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,2,1.41421356237309,-259,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,18,2.44948974278318,-186,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,6,5.09901951359278,-134,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,12.6666666666667,15.5134350376268,-97,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,7.33333333333333,5.35412613473634,-69,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,19.3333333333333,17.9071680247511,-50,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,30.6666666666667,5.71547606649408,-36,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,27.3333333333333,15.121728296285,-26,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,48.6666666666667,4.08248290463863,-19,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,34.6666666666667,11.3431330181157,-13,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,22.6666666666667,17.0489491367259,-10,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,26.6666666666667,16.8720676464584,-7,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,28,19.131126469709,-5,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,42,3.74165738677394,5,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,19.3333333333333,14.1656862405839,7,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,28.6666666666667,19.3045763140937,10,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,32,19.6468827043885,13,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,34.6666666666667,15.5134350376268,19,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,34,17.6635217326557,26,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,37.3333333333333,23.5513623102076,36,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,47.3333333333333,12.8322510366134,50,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,38,17.2046505340852,69,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,44.6666666666667,16.5126214353344,97,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,53.3333333333333,20.0665559243899,134,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,77.3333333333333,10.6144555520604,186,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,82,13.490737563232,259,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,94,37.7094152699296,360,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,25,MultiPulse_Whole_cell_CC_-500_500,7,11015,1,4276,Right,91.3333333333333,43.0426145426444,500,3,0.5,020326Bc1,ON alpha,high,F,ventral down,HFD,1,718,179,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,-300,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,-224,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,-167,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,-125,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,-93,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,-70,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,-52,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,-39,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,-29,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,-22,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,-16,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,-12,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,-9,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,-7,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,-5,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0.666666666666667,0.816496580927726,5,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0,0,7,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,0.666666666666667,0.816496580927726,9,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,1.33333333333333,1.63299316185545,12,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,7.33333333333333,2.16024689946929,16,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,11.3333333333333,0.816496580927726,22,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,18,1.41421356237309,29,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,29.3333333333333,0.816496580927726,39,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,37.3333333333333,2.16024689946929,52,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,57.3333333333333,2.16024689946929,70,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,76.6666666666667,1.63299316185545,93,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,93.3333333333333,0.816496580927726,125,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,116,1.41421356237309,167,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,121.333333333333,9.41629792788369,224,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,26,MultiPulse_Whole_cell_CC_2,15,11023,1,4276,Right,68,2.82842712474619,300,3,0.5,020326Bc9,OFF horizontal OS - symmetric,high,F,ventral down,HFD,9,818,100,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,-500,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,-360,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,-259,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,-186,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,-134,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,-97,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,-69,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,-50,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,-36,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,-26,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,-19,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,-13,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,-10,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,-7,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,-5,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,5,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,7,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,10,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,13,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,19,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,26,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,36,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,50,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,69,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,97,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,134,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,0,0,186,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,6.66666666666667,0.816496580927726,259,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,31.3333333333333,1.63299316185545,360,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,27,MultiPulse_Whole_cell_CC_2,17,11027,1,4276,Right,69.3333333333333,0.816496580927726,500,3,0.5,020326Bc13,ON alpha,high,F,ventral down,HFD,13,690,380,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,0,NaN,-300,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,0,NaN,-224,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,0,NaN,-167,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,0,NaN,-125,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,0,NaN,-93,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,0,NaN,-70,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,0,NaN,-52,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,6,NaN,-39,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,22,NaN,-29,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,20,NaN,-22,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,34,NaN,-16,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,14,NaN,-12,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,28,NaN,-9,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,30,NaN,-7,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,24,NaN,-5,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,40,NaN,5,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,38,NaN,7,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,54,NaN,9,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,44,NaN,12,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,52,NaN,16,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,44,NaN,22,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,58,NaN,29,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,68,NaN,39,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,76,NaN,52,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,80,NaN,70,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,8,NaN,93,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,6,NaN,125,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,44,NaN,167,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,18,NaN,224,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,28,MultiPulse_Whole_cell_CC_Short,6,11028,1,4276,Right,6,NaN,300,1,0.5,020326Bc14,OFF sustained alpha,high,F,ventral down,HFD,14,679,437,DT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,0,NaN,-300,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,0,NaN,-224,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,2,NaN,-167,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,6,NaN,-125,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,10,NaN,-93,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,16,NaN,-70,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,16,NaN,-52,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,18,NaN,-39,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,32,NaN,-29,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,30,NaN,-22,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,30,NaN,-16,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,30,NaN,-12,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,26,NaN,-9,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,30,NaN,-7,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,28,NaN,-5,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,26,NaN,5,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,36,NaN,7,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,42,NaN,9,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,38,NaN,12,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,38,NaN,16,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,42,NaN,22,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,44,NaN,29,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,46,NaN,39,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,22,NaN,52,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,6,NaN,70,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,8,NaN,93,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,6,NaN,125,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,6,NaN,167,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,6,NaN,224,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+020326B,29,MultiPulse_Whole_cell_CC_Short,8,11021,1,4276,Right,4,NaN,300,1,0.5,020326Bc7,OFF sustained alpha,high,F,ventral down,HFD,7,605,-18,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,0,0,-500,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,0,0,-360,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,0,0,-259,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,0,0,-186,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,2,0,-134,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,2.66666666666667,3.2659863237109,-97,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,4.66666666666667,2.16024689946929,-69,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,2,1.41421356237309,-50,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,12,0,-36,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,10.6666666666667,2.16024689946929,-26,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,9.33333333333333,1.63299316185545,-19,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,11.3333333333333,3.55902608401044,-13,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,9.33333333333333,2.16024689946929,-10,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,12,3.74165738677394,-7,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,16,2.82842712474619,-5,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,12.6666666666667,2.16024689946929,5,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,8.66666666666667,0.816496580927726,7,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,16,3.74165738677394,10,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,14,3.74165738677394,13,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,15.3333333333333,3.2659863237109,19,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,15.3333333333333,4.96655480858378,26,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,22,2.44948974278318,36,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,23.3333333333333,4.54606056566195,50,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,28,5.09901951359278,69,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,35.3333333333333,4.32049379893857,97,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,51.3333333333333,1.63299316185545,134,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,60.6666666666667,3.55902608401044,186,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,74,2.82842712474619,259,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,82.6666666666667,5.71547606649408,360,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,30,MultiPulse_Whole_cell_Voltage_clamp,7,11089,1,4277,Left,53.3333333333333,16.391054470859,500,3,0.5,021026Ac18,ON alpha,high,F,ventral down,HFD,18,-1377,-159,VT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0,0,-300,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0,0,-224,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0,0,-167,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0,0,-125,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0,0,-93,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0,0,-70,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0,0,-52,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0,0,-39,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0,0,-29,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0,0,-22,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0.666666666666667,0.816496580927726,-16,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0,0,-12,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0,0,-9,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0,0,-7,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0,0,-5,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,3.33333333333333,2.16024689946929,5,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0,0,7,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0.666666666666667,0.816496580927726,9,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,3.33333333333333,2.94392028877595,12,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,0.666666666666667,0.816496580927726,16,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,1.33333333333333,0.816496580927726,22,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,5.33333333333333,2.16024689946929,29,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,5.33333333333333,2.16024689946929,39,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,8.66666666666667,0.816496580927726,52,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,16.6666666666667,3.2659863237109,70,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,31.3333333333333,2.16024689946929,93,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,44.6666666666667,4.08248290463863,125,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,59.3333333333333,3.2659863237109,167,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,86,2.82842712474619,224,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,31,MultiPulse_Whole_cell_Voltage_clamp,9,11099,1,4277,Left,107.333333333333,11.8602979164381,300,3,0.5,021026Ac8,ON transient medium RF,high,F,ventral down,HFD,8,-415,339,DT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,0,0,-500,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,0,0,-360,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,0,0,-259,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,0,0,-186,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,6,2.44948974278318,-134,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,7.33333333333333,2.94392028877595,-97,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,13.3333333333333,7.11805216802088,-69,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,17.3333333333333,0.816496580927726,-50,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,12,1.41421356237309,-36,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,21.3333333333333,3.2659863237109,-26,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,19.3333333333333,4.96655480858378,-19,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,30.6666666666667,10.4243305140746,-13,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,25.3333333333333,0.816496580927726,-10,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,24,5.09901951359278,-7,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,22.6666666666667,2.94392028877595,-5,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,20,1.41421356237309,5,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,24.6666666666667,5.8878405775519,7,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,30.6666666666667,4.54606056566195,10,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,25.3333333333333,0.816496580927726,13,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,30.6666666666667,2.16024689946929,19,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,33.3333333333333,4.96655480858378,26,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,31.3333333333333,1.63299316185545,36,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,39.3333333333333,5.35412613473634,50,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,38,3.74165738677394,69,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,52,6.16441400296898,97,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,57.3333333333333,6.68331255192114,134,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,66,3.74165738677394,186,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,88,2.44948974278318,259,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,106,5.09901951359278,360,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,32,MultiPulse_Whole_cell_Voltage_clamp,10,11092,1,4277,Left,129.333333333333,6.97614984548545,500,3,0.5,021026Ac20,ON alpha,high,F,ventral down,HFD,20,-1788,-255,VT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,-300,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,-224,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,-167,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,-125,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,-93,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,-70,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,-52,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,-39,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,-29,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,-22,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,-16,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,-12,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,-9,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,-7,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,-5,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,0,0,5,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,3.33333333333333,2.16024689946929,7,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,1.33333333333333,0.816496580927726,9,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,2.66666666666667,0.816496580927726,12,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,4.66666666666667,3.55902608401044,16,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,3.33333333333333,2.16024689946929,22,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,10,3.74165738677394,29,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,24.6666666666667,7.78888096369861,39,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,32.6666666666667,5.71547606649408,52,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,46,5.65685424949238,70,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,63.3333333333333,3.55902608401044,93,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,75.3333333333333,2.16024689946929,125,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,92.6666666666667,0.816496580927726,167,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,104.666666666667,4.32049379893857,224,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026A,33,MultiPulse_Whole_cell_Voltage_clamp,20,11100,1,4277,Left,91.3333333333333,4.54606056566195,300,3,0.5,021026Ac9,ON DS sustained - dorsonasal,high,F,ventral down,HFD,9,-428,317,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,0,0,-300,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,0,0,-224,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,0,0,-167,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,0,0,-125,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,0,0,-93,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,0,0,-70,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,0.666666666666667,0.816496580927726,-52,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,2,1.41421356237309,-39,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,5.33333333333333,2.16024689946929,-29,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,4.66666666666667,1.63299316185545,-22,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,7.33333333333333,3.55902608401044,-16,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,10,4.89897948556636,-12,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,10,2.44948974278318,-9,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,9.33333333333333,2.94392028877595,-7,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,15.3333333333333,5.71547606649408,-5,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,21.3333333333333,5.71547606649408,5,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,16,5.09901951359278,7,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,25.3333333333333,10.2306728354819,9,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,24.6666666666667,5.8878405775519,12,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,26.6666666666667,5.71547606649408,16,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,26.6666666666667,3.55902608401044,22,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,32,4.24264068711928,29,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,38.6666666666667,4.54606056566195,39,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,46.6666666666667,4.54606056566195,52,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,53.3333333333333,5.71547606649408,70,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,66.6666666666667,5.35412613473634,93,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,74,5.09901951359278,125,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,68,31.8433666561813,167,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,82,30.6267856622271,224,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,34,MultiPulse_CC_Whole_cell,9,11108,1,4277,Right,36,21.9544984001001,300,3,0.5,021026Bc3,ON vertical OS large RF,high,F,ventral down,HFD,3,876,519,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,-300,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,-224,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,-167,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,-125,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,-93,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,-70,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,-52,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,-39,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,-29,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,-22,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,-16,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,-12,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,-9,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,-7,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,-5,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,5,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0,0,7,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,0.666666666666667,0.816496580927726,9,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,1.33333333333333,0.816496580927726,12,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,4,2.82842712474619,16,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,7.33333333333333,2.16024689946929,22,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,11.3333333333333,0.816496580927726,29,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,20,1.41421356237309,39,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,28.6666666666667,1.63299316185545,52,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,40,2.44948974278318,70,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,53.3333333333333,2.16024689946929,93,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,73.3333333333333,2.16024689946929,125,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,98,3.74165738677394,167,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,127.333333333333,1.63299316185545,224,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,35,MultiPulse_Whole_cell_CC,3,11110,1,4277,Right,155.333333333333,2.16024689946929,300,3,0.5,021026Bc5,ON DS sustained - dorsonasal,high,F,ventral down,HFD,5,823,474,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,0,0,-500,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,0,0,-360,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,0,0,-259,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,0,0,-186,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,0,0,-134,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,0,0,-97,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,0.666666666666667,0.816496580927726,-69,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,0.666666666666667,0.816496580927726,-50,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,0.666666666666667,0.816496580927726,-36,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,4.66666666666667,2.94392028877595,-26,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,6.66666666666667,1.63299316185545,-19,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,3.33333333333333,0.816496580927726,-13,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,3.33333333333333,0.816496580927726,-10,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,6.66666666666667,0.816496580927726,-7,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,6,2.82842712474619,-5,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,6.66666666666667,1.63299316185545,5,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,4.66666666666667,0.816496580927726,7,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,6,2.44948974278318,10,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,6.66666666666667,2.94392028877595,13,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,9.33333333333333,3.55902608401044,19,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,4.66666666666667,2.16024689946929,26,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,10,1.41421356237309,36,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,9.33333333333333,0.816496580927726,50,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,13.3333333333333,2.94392028877595,69,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,20.6666666666667,4.32049379893857,97,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,32,4.24264068711928,134,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,38,3.74165738677394,186,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,62,4.24264068711928,259,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,90.6666666666667,4.32049379893857,360,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,36,MultiPulse_Whole_cell_CC,4,11113,1,4277,Right,117.333333333333,3.2659863237109,500,3,0.5,021026Bc8,ON alpha,high,F,ventral down,HFD,8,688,281,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,0,0,-500,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,0,0,-360,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,0,0,-259,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,0,0,-186,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,2,1.41421356237309,-134,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,2.66666666666667,2.16024689946929,-97,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,9.33333333333333,4.08248290463863,-69,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,6.66666666666667,2.94392028877595,-50,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,9.33333333333333,1.63299316185545,-36,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,14,1.41421356237309,-26,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,10,1.41421356237309,-19,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,13.3333333333333,2.16024689946929,-13,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,12,1.41421356237309,-10,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,17.3333333333333,1.63299316185545,-7,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,12,1.41421356237309,-5,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,17.3333333333333,2.94392028877595,5,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,16,1.41421356237309,7,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,16,1.41421356237309,10,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,20,2.44948974278318,13,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,18,2.82842712474619,19,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,15.3333333333333,0.816496580927726,26,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,18,1.41421356237309,36,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,22,1.41421356237309,50,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,24,1.41421356237309,69,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,30,2.82842712474619,97,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,38,2.44948974278318,134,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,46,2.44948974278318,186,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,54,1.41421356237309,259,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,70.6666666666667,2.16024689946929,360,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,37,MultiPulse_Whole_cell_CC,6,11109,1,4277,Right,93.3333333333333,4.08248290463863,500,3,0.5,021026Bc4,OFF transient alpha,high,F,ventral down,HFD,4,841,457,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,0,0,-500,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,0,0,-360,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,4.66666666666667,0.816496580927726,-259,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,14.6666666666667,2.16024689946929,-186,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,17.3333333333333,4.32049379893857,-134,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,26.6666666666667,4.96655480858378,-97,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,38,1.41421356237309,-69,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,46,1.41421356237309,-50,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,48,1.41421356237309,-36,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,46.6666666666667,3.55902608401044,-26,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,47.3333333333333,4.96655480858378,-19,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,39.3333333333333,14.4452991200136,-13,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,53.3333333333333,5.8878405775519,-10,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,47.3333333333333,5.35412613473634,-7,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,48,8.48528137423857,-5,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,54.6666666666667,2.16024689946929,5,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,55.3333333333333,5.71547606649408,7,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,50.6666666666667,11.7756811551038,10,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,49.3333333333333,9.41629792788369,13,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,41.3333333333333,20.8486610281492,19,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,42,25.8069758011279,26,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,65.3333333333333,5.8878405775519,36,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,42.6666666666667,26.1661358757205,50,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,64.6666666666667,7.25718035235908,69,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,49.3333333333333,3.55902608401044,97,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,70,9.89949493661167,134,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,40.6666666666667,7.11805216802088,186,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,10.6666666666667,1.63299316185545,259,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,4,1.41421356237309,360,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021026B,38,MultiPulse_Whole_cell_CC,10,11102,1,4277,Right,5.33333333333333,1.63299316185545,500,3,0.5,021026Bc1,OFF sustained alpha,high,F,ventral down,HFD,1,860,610,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,0,0,-500,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,0,0,-360,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,0,0,-259,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,0,0,-186,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,0,0,-134,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,0,0,-97,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,0,0,-69,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,0.666666666666667,0.816496580927726,-50,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,0.666666666666667,0.816496580927726,-36,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,2.66666666666667,2.16024689946929,-26,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,3.33333333333333,2.16024689946929,-19,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,4,2.44948974278318,-13,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,4,2.82842712474619,-10,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,6.66666666666667,3.55902608401044,-7,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,10,3.74165738677394,-5,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,11.3333333333333,2.16024689946929,5,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,12.6666666666667,4.08248290463863,7,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,13.3333333333333,2.94392028877595,10,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,15.3333333333333,3.2659863237109,13,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,12,7.48331477354788,19,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,19.3333333333333,3.55902608401044,26,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,26.6666666666667,1.63299316185545,36,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,28.6666666666667,5.35412613473634,50,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,40,2.82842712474619,69,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,50,5.09901951359278,97,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,68,1.41421356237309,134,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,88.6666666666667,0.816496580927726,186,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,117.333333333333,0.816496580927726,259,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,142.666666666667,2.16024689946929,360,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,39,MultiPulse_Whole_cell_CC,4,11133,1,4278,Left,101.333333333333,51.9679388341183,500,3,0.5,021726Bc5,ON transient medium RF,high,F,ventral down,HFD,5,-1172,646,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,0,0,-500,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,0,0,-360,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,0,0,-259,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,0,0,-186,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,0,0,-134,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,0,0,-97,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,0,0,-69,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,0,0,-50,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,0,0,-36,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,0,0,-26,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,0,0,-19,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,0,0,-13,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,0.666666666666667,0.816496580927726,-10,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,0.666666666666667,0.816496580927726,-7,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,1.33333333333333,0.816496580927726,-5,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,4,4.89897948556636,5,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,2.66666666666667,3.2659863237109,7,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,3.33333333333333,4.08248290463863,10,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,4,3.74165738677394,13,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,5.33333333333333,3.55902608401044,19,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,4,4.89897948556636,26,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,9.33333333333333,4.32049379893857,36,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,14.6666666666667,7.25718035235908,50,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,22,6.16441400296898,69,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,32.6666666666667,4.32049379893857,97,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,50.6666666666667,4.32049379893857,134,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,71.3333333333333,5.8878405775519,186,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,92.6666666666667,5.71547606649408,259,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,124,4.89897948556636,360,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
+021726B,40,MultiPulse_Whole_cell_CC,5,11134,1,4278,Left,166.666666666667,3.2659863237109,500,3,0.5,021726Bc6,ON alpha,high,F,ventral down,HFD,6,-1131,633,DT
